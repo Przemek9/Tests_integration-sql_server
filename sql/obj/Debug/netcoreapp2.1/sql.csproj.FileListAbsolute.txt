@@ -1,0 +1,3 @@
+C:\Users\jedra\Desktop\c#\ConsoleApp1\sql\obj\Debug\netcoreapp2.1\sql.csproj.CoreCompileInputs.cache
+C:\Users\jedra\Desktop\c#\ConsoleApp1\sql\obj\Debug\netcoreapp2.1\sql.AssemblyInfoInputs.cache
+C:\Users\jedra\Desktop\c#\ConsoleApp1\sql\obj\Debug\netcoreapp2.1\sql.AssemblyInfo.cs

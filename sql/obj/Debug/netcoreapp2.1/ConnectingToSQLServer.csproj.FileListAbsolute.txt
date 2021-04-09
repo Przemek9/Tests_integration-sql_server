@@ -1,0 +1,11 @@
+C:\Users\jedra\Desktop\c#\ConsoleApp1\sql\obj\Debug\netcoreapp2.1\ConnectingToSQLServer.csprojAssemblyReference.cache
+C:\Users\jedra\Desktop\c#\ConsoleApp1\sql\obj\Debug\netcoreapp2.1\ConnectingToSQLServer.csproj.CoreCompileInputs.cache
+C:\Users\jedra\Desktop\c#\ConsoleApp1\sql\obj\Debug\netcoreapp2.1\ConnectingToSQLServer.AssemblyInfoInputs.cache
+C:\Users\jedra\Desktop\c#\ConsoleApp1\sql\obj\Debug\netcoreapp2.1\ConnectingToSQLServer.AssemblyInfo.cs
+C:\Users\jedra\Desktop\c#\ConsoleApp1\sql\bin\Debug\netcoreapp2.1\ConnectingToSQLServer.deps.json
+C:\Users\jedra\Desktop\c#\ConsoleApp1\sql\bin\Debug\netcoreapp2.1\ConnectingToSQLServer.runtimeconfig.json
+C:\Users\jedra\Desktop\c#\ConsoleApp1\sql\bin\Debug\netcoreapp2.1\ConnectingToSQLServer.runtimeconfig.dev.json
+C:\Users\jedra\Desktop\c#\ConsoleApp1\sql\bin\Debug\netcoreapp2.1\ConnectingToSQLServer.dll
+C:\Users\jedra\Desktop\c#\ConsoleApp1\sql\bin\Debug\netcoreapp2.1\ConnectingToSQLServer.pdb
+C:\Users\jedra\Desktop\c#\ConsoleApp1\sql\obj\Debug\netcoreapp2.1\ConnectingToSQLServer.dll
+C:\Users\jedra\Desktop\c#\ConsoleApp1\sql\obj\Debug\netcoreapp2.1\ConnectingToSQLServer.pdb
